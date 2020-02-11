@@ -32,3 +32,14 @@ Features
 | A5    | ADXL345_SCL (I2C)     |
 | A6    |     |
 | A7    |     |
+
+
+###Images
+
+Image:
+
+![](https://github.com/diego123cruz/NanoTac/blob/master/imagens/1.jpg)
+![](https://github.com/diego123cruz/NanoTac/blob/master/imagens/2.jpg)
+![](https://github.com/diego123cruz/NanoTac/blob/master/imagens/3.jpg)
+![](https://github.com/diego123cruz/NanoTac/blob/master/imagens/4.jpg)
+![](https://github.com/diego123cruz/NanoTac/blob/master/imagens/5.jpg)
