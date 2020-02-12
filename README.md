@@ -9,6 +9,7 @@ Features
   - Push Button (pull up)
   - Led Green (pwm)
   - Led Red (pwm)
+  - Light sensor
   
 | Pin | Connected on                    |
 | ------------- | ------------------------------ |
@@ -31,7 +32,7 @@ Features
 | A4    | ADXL345_SDA (I2C)     |
 | A5    | ADXL345_SCL (I2C)     |
 | A6    |     |
-| A7    |     |
+| A7    | LDR |
 
 
 ###Images
