@@ -15,10 +15,10 @@ Features
 | ------------- | ------------------------------ |
 | D2    |      |
 | D3 ~  | IR-OUT       |
-| D4    |              |
+| D4    | PUSH_BUTTON_WHITE (pull up)   |
 | D5 ~  | GREEN_LED    |
 | D6 ~  | RED_LED      |
-| D7 -  | PUSH_BUTTON (pull up)   |
+| D7 -  | PUSH_BUTTON_BLACK (pull up)   |
 | D8 -  | BUZZER (ative - HIGH)   |
 | D9 -  | OLED_MOSI   |
 | D10 - | OLED_CLK    |
